@@ -1,8 +1,6 @@
 # Anastasiya Chultsova
 ## Contact info 
-**Mobile**: +375(33)381-69-64
-**Mail**: nchulczova@gmail.com
-**GitHub**: [link](https://github.com/achultsova)
+**Mobile**: +375(33)381-69-64 <br> **Mail**: nchulczova@gmail.com <br> **GitHub**: [link](https://github.com/achultsova)
 ## Summary
 I'm interested in frontend development. I have experience in web design for about 6 months.I have high self-motivation, analytical skills. 
 ## Skills
@@ -14,7 +12,6 @@ I'm interested in frontend development. I have experience in web design for abou
 - Course JS on Htmlacademy
 - Course JS on Udemy
 ## Education
-Belarusian National Technical University, September, 2017- Current 
-Biotechnical and Medical Devices and Systems
+Belarusian National Technical University, September, 2017- Current - *Biotechnical and Medical Devices and Systems*
 ## English
-My current level is Pre-intermediate
+*My current level is Pre-intermediate*
