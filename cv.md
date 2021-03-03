@@ -12,6 +12,6 @@ I'm interested in frontend development. I have experience in web design for abou
 - Course JS on Htmlacademy
 - Course JS on Udemy
 ## Education
-Belarusian National Technical University, September, 2017- Current - *Biotechnical and Medical Devices and Systems*
+Belarusian National Technical University, September, 2017- Current, <br> *Biotechnical and Medical Devices and Systems*
 ## English
 *My current level is Pre-intermediate*
